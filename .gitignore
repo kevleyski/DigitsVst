@@ -1,1 +1,3 @@
 *.o
+sdks/vst3sdk
+sdks/VST3_Project_Generator
